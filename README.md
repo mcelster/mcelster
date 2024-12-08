@@ -1,5 +1,9 @@
 ## Hi there 👋
+I am Marie Elster, a CS and EE sophomore at UMass Amherst! I love solving problems, and I love learning. Even more so when it involves computers. Whether it's high-level Python code, or low-level logic gates in a digital system, I am always thrilled to dissect, learn, and solve technical problems! My interests include Machine Learning, electronics, music, and art. My most recent project is a generative AI music model that I have developed with my teammates through Break Through Tech AI at Mathworks. It employs an LSTM model to generate a melody, so if you're interested, check it out!
 
+⭐ Connect with me ⭐  
+LinkedIn: www.linkedin.com/in/marie-elster  
+Email: marie.c.elster@gmail.com  
 <!--
 **mcelster/mcelster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
