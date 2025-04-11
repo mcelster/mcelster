@@ -3,7 +3,6 @@ I am Marie Elster, a CS and EE sophomore at UMass Amherst! I love solving proble
 
 ⭐ Connect with me ⭐  
 LinkedIn: www.linkedin.com/in/marie-elster  
-Email: marie.c.elster@gmail.com  
 <!--
 **mcelster/mcelster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
